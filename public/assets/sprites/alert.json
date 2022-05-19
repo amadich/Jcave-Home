@@ -1,0 +1,187 @@
+{
+	"textures": [
+		{
+			"image": "alert",
+			"format": "RGBA8888",
+			"size": {
+				"w": 355,
+				"h": 327
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "placed-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 356,
+						"h": 227
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 355,
+						"h": 226
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 355,
+						"h": 226
+					}
+				},
+				{
+					"filename": "task-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 34
+					},
+					"frame": {
+						"x": 0,
+						"y": 226,
+						"w": 188,
+						"h": 34
+					}
+				},
+				{
+					"filename": "task_red.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 34
+					},
+					"frame": {
+						"x": 0,
+						"y": 260,
+						"w": 188,
+						"h": 34
+					}
+				},
+				{
+					"filename": "btn_blue.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 33
+					},
+					"frame": {
+						"x": 188,
+						"y": 226,
+						"w": 120,
+						"h": 33
+					}
+				},
+				{
+					"filename": "btn_gold-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 33
+					},
+					"frame": {
+						"x": 188,
+						"y": 259,
+						"w": 120,
+						"h": 33
+					}
+				},
+				{
+					"filename": "btn_red.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 33
+					},
+					"frame": {
+						"x": 0,
+						"y": 294,
+						"w": 120,
+						"h": 33
+					}
+				},
+				{
+					"filename": "close-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 17,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 17,
+						"h": 18
+					},
+					"frame": {
+						"x": 120,
+						"y": 294,
+						"w": 17,
+						"h": 18
+					}
+				},
+				{
+					"filename": "vp-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 17,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 17,
+						"h": 18
+					},
+					"frame": {
+						"x": 137,
+						"y": 294,
+						"w": 17,
+						"h": 18
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
