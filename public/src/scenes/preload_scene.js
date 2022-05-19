@@ -70,7 +70,7 @@ class preload_scene extends Phaser.Scene {
 
 
         // sprites
-        this.load.atlas("joly","public/assets/sprites/joly.png","public/assets/sprites/joly.json");
+        this.load.atlas("joly","public/assets/sprites/Joly.png","public/assets/sprites/Joly.json");
         this.load.atlas("tom","public/assets/sprites/tom.png","public/assets/sprites/tom.json");
         this.load.atlas("sara","public/assets/sprites/sara.png","public/assets/sprites/sara.json");
 
